@@ -1,1 +1,1 @@
-# Hndwrittendigitrecognition
+# Handwrittendigitrecognition
